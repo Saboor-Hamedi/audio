@@ -1,0 +1,5 @@
+Metadata-Version: 2.1
+Name: convert-to-audio
+Version: 1.0
+Requires-Dist: pyttsx3
+Requires-Dist: python-docx
