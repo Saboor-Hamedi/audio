@@ -1,2 +1,0 @@
-[console_scripts]
-convert_to_audio = convert_to_audio:main

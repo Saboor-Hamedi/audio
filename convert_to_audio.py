@@ -26,10 +26,6 @@ def main():
     # List available voices
     voices = engine.getProperty('voices')
     
-    # Print available voices for debugging
-    print("Available voices:")
-    for voice in voices:
-        print(f"{voice.name} - ID: {voice.id}")
 
     # Default voice ID (Microsoft Hazel Desktop)
     default_voice_name = "Microsoft Hazel Desktop - English (Great Britain)"
